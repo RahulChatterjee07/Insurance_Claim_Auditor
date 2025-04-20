@@ -1,0 +1,19 @@
+{
+  "valid_claims": [
+    {
+      "amount": "$600",
+      "provider": "Toronto Rehab Inc.",
+      "service": "Chiropractic",
+      "date": "2024-03-20"
+    }
+  ],
+  "flagged_duplicates": [
+    {
+      "amount": "$1,200",
+      "provider": "Toronto Rehab Inc.",
+      "date": "2024-03-18",
+      "reason": "Duplicate of Invoice #1245"
+    }
+  ],
+  "total_approved": "$600"
+}

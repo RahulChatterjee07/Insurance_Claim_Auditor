@@ -1,0 +1,16 @@
+OCF-21: Treatment Plan - Health Claims for Auto Insurance
+
+Patient: Jane Doe
+DOB: 1985-02-01
+Provider: Toronto Rehab Inc.
+
+Services Requested:
+- Physiotherapy: 6 sessions @ $200 = $1,200
+- Chiropractic: 4 sessions @ $150 = $600
+
+Total Claimed: $1,800 CAD
+
+Attached:
+- Invoice #1245 dated 2024-03-18 for $1,200 CAD
+- Invoice #1245 (Duplicate) dated 2024-03-18 for $1,200 CAD
+- Invoice #1246 dated 2024-03-20 for $600 CAD
